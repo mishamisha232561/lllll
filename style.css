@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:blue;
+    border-radius:10px;
+    padding:25px;
+}
+
+h1 {
+    background-color:royalblue;
+    color:whitesmoke;
+    text-align:center;
+}
+
+
+ul{
+    border: 2px solid aquamarine;
+    border-radius:10px;
+    padding:18px;
+}
+
+ul:hover{
+    background-color:lightblue;
+    transition:all 1s linear;
+}
+
+h2{
+    text-align:center;
+
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color:white;
+}
+
+.k{
+    display: flex;
+    flex-direction: column;
+}
+
+.k a:hover{
+    color:aqua;
+    border:2px solid aquamarine;
+}
+
+.cc{
+    display:flex;
+    flex-direction:column;
+}
+
